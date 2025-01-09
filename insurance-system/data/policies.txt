@@ -1,0 +1,25 @@
+[
+  {
+    "policyId": 1,
+    "policyName": "health",
+    "premium": 2000,
+    "duration": 1
+  },
+  {
+    "policyId": 2,
+    "policyName": "health",
+    "premium": 3000,
+    "duration": 5
+  },
+  {
+    "policyName": "health",
+    "premium": 3000,
+    "duration": 5
+  },
+  {
+    "policyId": "71ba7c17-6e02-47f7-a3a0-fdd9630271e6",
+    "policyName": "health",
+    "premium": 3000,
+    "duration": 5
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "claimId": 1,
+    "userId": 2,
+    "policyId": 2,
+    "description": "fuhg",
+    "status": "Pending"
+  },
+  {
+    "claimId": 2,
+    "userId": 2,
+    "policyId": 2,
+    "description": "fuhg",
+    "status": "Pending"
+  },
+  {
+    "userId": 2,
+    "policyId": 2,
+    "description": "fuhg"
+  },
+  {
+    "userId": 2,
+    "policyId": 2,
+    "description": "fuhg"
+  },
+  {
+    "claimId": 5,
+    "userId": 2,
+    "policyId": 2,
+    "description": "fuhg"
+  },
+  {
+    "claimId": 6,
+    "userId": 2,
+    "policyId": 2,
+    "description": "fuhg",
+    "status": "Pending"
+  },
+  {
+    "claimId": 7,
+    "userId": 2,
+    "policyId": 2,
+    "description": "fuhg",
+    "status": "Pending"
+  },
+  {
+    "claimId": 8,
+    "userId": 2,
+    "policyId": 2,
+    "description": "fuhg",
+    "status": "Pending"
+  },
+  {
+    "claimId": 9,
+    "userId": 2,
+    "policyId": 2,
+    "description": "fuhg",
+    "status": "pending"
+  },
+  {
+    "claimId": 10,
+    "userId": 2,
+    "policyId": 2,
+    "description": "fuhg",
+    "status": "Pending"
+  },
+  {
+    "userId": 2,
+    "policyId": 2,
+    "description": "fuhg",
+    "status": "Pending"
+  },
+  {
+    "claimId": "f976e6a4-d763-420f-8dc5-adee3b71e7e8",
+    "userId": 2,
+    "policyId": 2,
+    "description": "fuhg",
+    "status": "Pending"
+  }
+]

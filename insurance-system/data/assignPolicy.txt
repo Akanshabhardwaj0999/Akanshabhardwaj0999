@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1736332874964",
+    "userId": 2,
+    "policyId": 2,
+    "assignedDate": "10/5/2024"
+  },
+  {
+    "userId": 1,
+    "policyId": 2,
+    "assignedDate": "5/10/24"
+  },
+  {
+    "userId": 1,
+    "policyId": 2,
+    "assignedDate": "5/10/24"
+  },
+  {
+    "assignId": "fb60f452-b6e3-43aa-88c8-3f590d033e56",
+    "userId": 1,
+    "policyId": 2,
+    "assignedDate": "5/10/24"
+  }
+]
